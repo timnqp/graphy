@@ -1,10 +1,10 @@
 ### Introduction
 
-[Graphy.js](https://quangphuc789.github.io/graphy.js/) is a Javascript library to display 2D graph functions on browsers. The main drawing technology is based on HTML5 canvas.
+[Graphy.js](https://quangphuc789.github.io/graphy/) is a Javascript library to display 2D graph functions on browsers. The main drawing technology is based on HTML5 canvas.
 
 ### Demo
 
-[Demo Here](https://quangphuc789.github.io/graphy.js/#demo)
+[Demo Here](https://quangphuc789.github.io/graphy/#demo)
 
 ### Installation
 
@@ -13,7 +13,7 @@ Graphy.js requires javascript source file build/graphy.min.js. Git checkout or d
   - HTML
 ```html
 <head>
-    <script src='http://quangphuc789.github.io/graphy.js/build/graphy.min.js'></script>
+    <script src='http://quangphuc789.github.io/graphy/build/graphy.min.js'></script>
 </head>
 ```
 
@@ -139,4 +139,4 @@ APIs for basic 2D graph functions. This includes APIs for setting up & displayin
 ### License
 MIT License. Copyright © quangphuc789 2016.
 
-   [git-repo-url]: <https://github.com/quangphuc789/graphy.js>
+   [git-repo-url]: <https://github.com/quangphuc789/graphy>
